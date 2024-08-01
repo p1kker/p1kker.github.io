@@ -1,11 +1,11 @@
 body {
-    font-family: 'Lucida Sans';
+    font-family: Lucida;
     margin: 0;
     padding: 0;
     background-color: #ff0000;
 }
 header, footer {
-    background-color: #256;
+    background-color: rgb(145, 144, 144);
     color: #fff;
     padding: 10px 0;
     text-align: center;
