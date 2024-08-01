@@ -1,8 +1,8 @@
 body {
-    font-family: Lucida;
+    font-family: 'Lucida Sans';
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #000000;
 }
 header, footer {
     background-color: #256;
