@@ -2,10 +2,11 @@ body {
     font-family: 'Lucida';
     margin: 0;
     padding: 0;
-    background-color: #FFFFFF;
+    background-color: #18389e;
+    text-align: left 30;
 }
 header, footer {
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(94, 54, 158);
     color: #c80dee;
     padding: 10px 0;
     text-align: center;
